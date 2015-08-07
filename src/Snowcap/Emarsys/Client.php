@@ -21,7 +21,7 @@ class Client
     /**
      * @var string
      */
-    private $baseUrl = 'https://suite6.emarsys.net/api/v2/';
+    protected $baseUrl = 'https://suite6.emarsys.net/api/v2/';
     /**
      * @var string
      */
